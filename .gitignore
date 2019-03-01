@@ -3,4 +3,3 @@
 *.png
 *.pt
 .ipynb_checkpoints/Image Classifier Project-checkpoint.ipynb
-cat_to_name.json
